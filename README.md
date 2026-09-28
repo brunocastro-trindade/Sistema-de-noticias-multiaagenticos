@@ -1,0 +1,1 @@
+# Sistema de multi agents que usa uma arquitetura baseada em CrewAI para fazer buscas de noticias e para ficar de maneira "mais atrativa" larga as informações buscadas em um html simples, podendo que o usuario baixe esses arquivos em doc
